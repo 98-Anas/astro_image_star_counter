@@ -407,4 +407,3 @@ iperf3 -c pi-master  # on client
 
 ---
 
-If you want, I can also produce an automated Ansible playbook or shell scripts to provision nodes from scratch using the steps above.
