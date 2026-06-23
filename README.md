@@ -3,7 +3,7 @@
 
 
 ## Project Story
-This project tells the story of how a large astronomical image can be processed in parallel using MPI. It begins with a proof-of-concept script and evolves through optimization and advanced scaling. The base dataset is a very large grayscale TIFF image, and the task is to detect and count bright star-like points using OpenCV.
+This project tells the story of how a large astronomical image can be processed in parallel using MPI. It begins with a proof-of-concept script and evolves through optimization and advanced scaling. The base image is a very large RGB TIFF image, and the main target is to detect and count bright star-like points using OpenCV.
 
 The narrative is captured in [`parallel_star_counter_docs.md`](parallel_star_counter_docs.md), and the code evolves through three phases in the [`phases/`](phases/) folder:
 
