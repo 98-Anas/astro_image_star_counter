@@ -95,13 +95,12 @@ Then follow the phase progression:
 
 ## Next steps
 Future extensions could include:
-- support for FITS or other astronomical data formats
 - GPU acceleration for thresholding
 - more sophisticated star segmentation beyond binary thresholding
 - integration with job schedulers for larger multi-node clusters
 
 ## Social / Posts
-I shared the project and experimentation notes for phase(1) on LinkedIn — you can view and share your feedback there:
+I shared the project and experimentation notes for phase(1) on LinkedIn — you can view and share your feedback:
 
 - [LinkedIn post](https://www.linkedin.com/posts/anas-ayman98_highperformancecomputing-raspberrypi-supercomputers-share-7017960789101715456-6Eeq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_flRYBhpHmU-k6fTsQWlIKmsnG6GSidPM)
 
