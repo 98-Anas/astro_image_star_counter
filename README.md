@@ -1,4 +1,6 @@
 # Parallel Astronomical Star Counter
+<img width="970" height="546" alt="JG8zWjbRfptn2HzRy2cJsV-970-80 jpg" src="https://github.com/user-attachments/assets/275c9fc5-c99c-46e4-a30b-d1fe054f138d" />
+
 
 ## Project Story
 This project tells the story of how a large astronomical image can be processed in parallel using MPI. It begins with a proof-of-concept script and evolves through optimization and advanced scaling. The base dataset is a very large grayscale TIFF image, and the task is to detect and count bright star-like points using OpenCV.
